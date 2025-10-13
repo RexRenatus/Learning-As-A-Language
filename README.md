@@ -47,41 +47,54 @@ Large Language Models learn in three phases. So should we:
 
 This repository tracks fluency development across four language families:
 
-### 🧠 [Cognitive Fluency](languages/cognitive-fluency/)
-**The language of rational thought**
-- **Subdialects**: Psychology, Logic, Game Theory
-- **What you'll learn**: How minds work, how to reason formally, how to think strategically
+### 🔒 [Cybersecurity](languages/systemic-fluency/) ⭐ **PRIMARY FOCUS**
+**The language of security and digital defense**
+- **Learning approach**: Full immersion - living and breathing security daily
+- **What you'll learn**: Threat modeling, attack vectors, defense strategies, security architecture
+- **Current level**: Foundation phase (Immersion mode)
+- **Time allocation**: 60% of weekly learning hours
+- **Why priority**: Cybersecurity is the foundation for understanding how our digital universe is shaped and secured
+
+### ⚙️ [Systems Thinking](languages/systemic-fluency/)
+**The language of complex systems**
+- **Subdialect of**: Systemic Fluency
+- **What you'll learn**: How systems work, how they fail, process optimization
 - **Current level**: Foundation phase
+- **Time allocation**: 15% of weekly learning hours
 
 ### 🗣️ [Expressive Fluency](languages/expressive-fluency/)
 **The language of clear communication**
 - **Subdialects**: Rhetoric, Technical Writing
 - **What you'll learn**: How to persuade, how to explain complex ideas clearly
 - **Current level**: Foundation phase
+- **Time allocation**: 15% of weekly learning hours
 
-### ⚙️ [Systemic Fluency](languages/systemic-fluency/)
-**The language of complex systems**
-- **Subdialects**: Systems & Processes, Cybersecurity
-- **What you'll learn**: How systems work, how they fail, how to secure them
+### 🧠 [Cognitive Fluency](languages/cognitive-fluency/)
+**The language of rational thought**
+- **Subdialects**: Psychology, Logic, Game Theory
+- **What you'll learn**: How minds work, how to reason formally, how to think strategically
 - **Current level**: Foundation phase
+- **Time allocation**: 10% of weekly learning hours
 
 ### 💰 [Financial Fluency](languages/financial-fluency/)
 **The language of value**
 - **What you'll learn**: How capital flows, how to evaluate risk and return, how markets work
-- **Current level**: Foundation phase
+- **Current level**: Foundation phase (Passive learning)
+- **Time allocation**: Minimal - passive exposure only
 
 ---
 
 ## 📊 Current Progress
 
-| Language | Foundation | Practice | Mastery | Overall |
-|----------|-----------|----------|---------|---------|
-| 🧠 Cognitive | 0% | 0% | 0% | Beginner |
-| 🗣️ Expressive | 0% | 0% | 0% | Beginner |
-| ⚙️ Systemic | 0% | 0% | 0% | Beginner |
-| 💰 Financial | 0% | 0% | 0% | Beginner |
+| Language | Priority | Foundation | Practice | Mastery | Overall |
+|----------|----------|-----------|----------|---------|---------|
+| 🔒 **Cybersecurity** | ⭐ **PRIMARY** | 0% | 0% | 0% | Beginner (Immersion) |
+| ⚙️ Systems Thinking | Secondary | 0% | 0% | 0% | Beginner |
+| 🗣️ Expressive | Secondary | 0% | 0% | 0% | Beginner |
+| 🧠 Cognitive | Tertiary | 0% | 0% | 0% | Beginner |
+| 💰 Financial | Passive | 0% | 0% | 0% | Beginner |
 
-**Overall fluency**: 0% • **Target date**: 2025-12-31
+**Primary focus**: Cybersecurity (60% immersion) • **Target**: Intermediate by Q2 2026
 
 ---
 
@@ -107,15 +120,19 @@ scripts/            → Automation tools (optional)
 
 ### For Me (Daily Workflow)
 1. **Morning**: Review weekly focus in [goals/weekly/](goals/weekly/)
-2. **During**: Work on language-specific tasks (foundation/practice/mastery)
-3. **Evening**: Update [journal/](journal/) with progress and reflections
-4. **Weekly**: Review progress and update metrics in [metrics/](metrics/)
+2. **Immersion**: 60% time on **Cybersecurity** (living in the language)
+   - CTF challenges, security labs, threat modeling
+   - Reading security blogs, watching talks, analyzing breaches
+   - Building security tools and documenting findings
+3. **Support languages**: 40% time distributed across other languages
+4. **Evening**: Update [journal/](journal/) with progress and reflections
+5. **Weekly**: Review progress and update metrics in [metrics/](metrics/)
 
 ---
 
 ## 🔗 Quick Links
 
-- **Languages**: [Cognitive](languages/cognitive-fluency/) • [Expressive](languages/expressive-fluency/) • [Systemic](languages/systemic-fluency/) • [Financial](languages/financial-fluency/)
+- **Languages**: [🔒 Cybersecurity (PRIMARY)](languages/systemic-fluency/) • [Expressive](languages/expressive-fluency/) • [Cognitive](languages/cognitive-fluency/) • [Financial](languages/financial-fluency/)
 - **Journal**: [Latest entry](journal/2025/09/20250928.md) • [All entries](journal/)
 - **Goals**: [Current month](goals/monthly/) • [This week](goals/weekly/)
 - **Metrics**: [Language progress](metrics/language-progress.md) • [Learning velocity](metrics/learning-velocity.md)

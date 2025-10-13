@@ -1,64 +1,74 @@
-# ⚙️ Systemic Fluency — The Language of Complex Systems
+# 🔒 Cybersecurity — The Language of Digital Defense ⭐ **PRIMARY FOCUS**
 
-![Phase](https://img.shields.io/badge/phase-foundation-yellow) ![Progress](https://img.shields.io/badge/progress-0%25-lightgrey) ![Level](https://img.shields.io/badge/level-beginner-blue)
+![Phase](https://img.shields.io/badge/phase-foundation--immersion-yellow) ![Progress](https://img.shields.io/badge/progress-0%25-lightgrey) ![Level](https://img.shields.io/badge/level-beginner-blue) ![Priority](https://img.shields.io/badge/priority-HIGH-red)
 
-> "To speak the language of systems is to understand how complexity emerges, how systems fail, and how to design resilient architectures."
+> "Cybersecurity is not just a specialty—it's a language for understanding how our digital universe is shaped, attacked, and defended."
 
 ---
 
-## 🎯 What is Systemic Fluency?
+## 🎯 Why Cybersecurity as Primary Language?
 
-Systemic Fluency is the **language of complexity**. It combines two subdialects:
-- **Systems & Processes** - Understanding how complex systems work and evolve
-- **Cybersecurity** - Understanding how systems are attacked and defended
+Cybersecurity is my **high-priority immersion language**. Just like moving to a country to learn its language faster, I'm committing to **full immersion** in the security domain.
 
-Together, they form a unified way to see, design, and secure complex adaptive systems.
+**Immersion approach**:
+- **60% of weekly learning time** dedicated to security
+- **Daily exposure**: CTF challenges, security blogs, vulnerability research
+- **Living the language**: Thinking like both attacker and defender
+- **Real-world practice**: Building tools, analyzing breaches, threat modeling
 
 ---
 
 ## 🗣️ Subdialects
 
-### 🔄 Systems & Processes
-The vocabulary of interconnection
+### 🔒 Cybersecurity ⭐ **PRIMARY**
+The core language of digital defense
+- Threat modeling and risk assessment
+- Attack vectors and exploitation techniques
+- Defense strategies and security architecture
+- Incident response and forensics
+- Vulnerability research and disclosure
+
+### ⚙️ Systems Thinking (Secondary)
+Supporting language for understanding complexity
 - Systems thinking fundamentals
 - Process design and optimization
 - Feedback loops and emergence
 - Resilience engineering
-- Organizational systems
-
-### 🔒 Cybersecurity
-The grammar of protection
-- Threat modeling
-- Attack vectors and defense strategies
-- Security architecture
-- Incident response
-- Risk assessment
 
 ---
 
-## 📚 Phase 1: Foundation (Pre-training)
+## 🧱 Phase 1: Foundation (Pre-training) — IMMERSION MODE
 
-**Goal**: Build broad understanding of how complex systems work
+**Goal**: Build broad understanding of security fundamentals while immersing in the culture
 
-### Core Concepts to Learn
-- [ ] Systems thinking principles (stocks, flows, feedback)
+### Core Security Concepts (Priority)
 - [ ] CIA triad (Confidentiality, Integrity, Availability)
 - [ ] OWASP Top 10 vulnerabilities
-- [ ] Process mapping and optimization
-- [ ] Threat modeling methodologies (STRIDE, PASTA)
-- [ ] Security frameworks (NIST, ISO 27001)
+- [ ] Threat modeling methodologies (STRIDE, PASTA, DREAD)
+- [ ] Security frameworks (NIST, ISO 27001, CIS Controls)
+- [ ] Attack vectors and kill chain
+- [ ] Defense in depth principles
 
-### Resources
-- [ ] **Book**: "Thinking in Systems" by Donella Meadows
+### Immersion Resources
+- [ ] **Platform**: TryHackMe - Complete "Pre Security" and "Jr Penetration Tester" paths
+- [ ] **Platform**: HackTheBox Academy - Start with Tier 0 modules
 - [ ] **Book**: "The Web Application Hacker's Handbook" by Stuttard & Pinto
-- [ ] **Course**: Cybersecurity Fundamentals (Coursera)
-- [ ] **Platform**: TryHackMe or HackTheBox (beginner rooms)
-- [ ] **Resource**: OWASP documentation
+- [ ] **Book**: "Hacking: The Art of Exploitation" by Jon Erickson
+- [ ] **Daily**: OWASP documentation and security blogs
+- [ ] **Weekly**: SecurityWeekly podcast, Darknet Diaries
+- [ ] **Community**: Join CTF Discord, follow security Twitter
+
+### Daily Immersion Activities
+- **Morning**: Read 1 security article or blog post
+- **Practice**: 1-2 hours on TryHackMe/HackTheBox challenges
+- **Study**: 30-60 min reading security books or documentation
+- **Evening**: Document findings, write about what you learned
 
 ### Foundation Progress
 - **Concepts mastered**: 0/6
-- **Resources completed**: 0/5
-- **Notes created**: [foundation/](foundation/)
+- **Resources completed**: 0/7
+- **Immersion days**: 0
+- **Notes created**: [foundation/cybersecurity/](foundation/cybersecurity/)
 
 ---
 
